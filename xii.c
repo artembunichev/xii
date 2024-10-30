@@ -3,7 +3,7 @@ xii-x input window id.
 prints the internal X11 window id
 for the window that works as an input.
 
-it's pretty handy with ~/bin/fwd script.
+it's pretty handy with ~/bin/wd script.
 */
 
 #include<X11/Xlib.h>
