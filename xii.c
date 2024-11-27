@@ -17,7 +17,7 @@ int revto;
 
 dpl=XOpenDisplay(0);
 if(!dpl){
-	write(2,"xip: can't open a display.\n",27);
+	write(2,"xii: can't open a display.\n",27);
 	return 1;
 }
 
